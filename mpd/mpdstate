@@ -1,0 +1,70 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+state: pause
+current: 23
+time: 67.479000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 3
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:subnautica/Salutations.mp3
+1:subnautica/Into The Unknown.mp3
+2:subnautica/Tropical Eden.mp3
+3:subnautica/God Rays.mp3
+4:subnautica/In Bloom.mp3
+5:subnautica/Precipice.mp3
+6:subnautica/Sun & Moon.mp3
+7:subnautica/Finding Life.mp3
+8:subnautica/Crush Depth.mp3
+9:subnautica/What are You.mp3
+10:subnautica/Original Inhabitants.mp3
+11:subnautica/A Tendency to Float.mp3
+12:subnautica/Abandon Ship.mp3
+13:subnautica/Ahead Slow.mp3
+14:subnautica/Alien Expanse.mp3
+15:subnautica/Alien Passageways.mp3
+16:subnautica/Alien Spaces.mp3
+17:subnautica/Alterra Science.mp3
+18:subnautica/Amid the Kelp.mp3
+19:subnautica/Ancient Aliens.mp3
+20:subnautica/Arc Lights.mp3
+21:subnautica/Blood Crawlers.mp3
+22:subnautica/Blueprint.mp3
+23:subnautica/Bone Fields.mp3
+24:subnautica/Bring a Medpack.mp3
+25:subnautica/Buoyancy.mp3
+26:subnautica/Caverns.mp3
+27:subnautica/Coral Reef.mp3
+28:subnautica/Cuddlefish.mp3
+29:subnautica/Dark Matter Reactor.mp3
+30:subnautica/Exosuit.mp3
+31:subnautica/Fear the Reapers.mp3
+32:subnautica/First Immersion.mp3
+33:subnautica/Ghost Tree.mp3
+34:subnautica/Ghosts.mp3
+35:subnautica/Habitat.mp3
+36:subnautica/Infected.mp3
+37:subnautica/Islands Beneath the Sea.mp3
+38:subnautica/Lava Castle.mp3
+39:subnautica/Leviathan.mp3
+40:subnautica/Cycle of Life.mp3
+41:subnautica/Lost River.mp3
+42:subnautica/Maneuvers.mp3
+43:subnautica/Mushroom Forest.mp3
+44:subnautica/Observatory Zen.mp3
+45:subnautica/Red Alert.mp3
+46:subnautica/Rock It!.mp3
+47:subnautica/Safe in Kelp forest.mp3
+48:subnautica/Seamoth.mp3
+49:subnautica/Shadow of the Reefback.mp3
+50:subnautica/Shallows.mp3
+51:subnautica/Sunbeam.mp3
+52:subnautica/Unknown Flora.mp3
+53:subnautica/Violet Beau.mp3
+54:subnautica/Lift Off.mp3
+55:subnautica/Crash Site.mp3
+playlist_end
